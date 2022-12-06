@@ -8,17 +8,12 @@ Experienced Web Developer with a demonstrated history of working in the informat
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
 
 ## **Skills**
-
-<p align="center">
 
 - **Tools**: Angular 14, Nest.js, TypeScript, JAVA, Spring, HTML5, CSS3 / SASS, MongoDB, Docker, Kubernetes, Adobe XD, GIT, NPM, JIRA.
 - **Domains**: Front-End Development, Full-Stack Development
 
-</p>
 <br>
 
 <a href="https://github.com/AndreiMLazar">
