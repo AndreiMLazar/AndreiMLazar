@@ -18,7 +18,7 @@ Experienced Web Developer with a demonstrated history of working in the informat
 
 <a href="https://github.com/AndreiMLazar">
   <img src="https://github-readme-stats.vercel.app/api?username=andreimlazar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=7A7ADB&text_color=EAEAEA&bg_color=222222,252525,555555" height="150"/>&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreimlazar&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=7A7ADB&text_color=EAEAEA&bg_color=222222,252525,555555" height="150" alt="AndreiMLazar"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreimlazar&hide=php,prolog,apacheconf&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=7A7ADB&text_color=EAEAEA&bg_color=222222,252525,555555" height="150" alt="AndreiMLazar"/>
 
 </a>
 
