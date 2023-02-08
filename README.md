@@ -11,7 +11,7 @@ Experienced Web Developer with a demonstrated history of working in the informat
 
 ## **Skills**
 
-- **Tools**: Angular 14, Nest.js, TypeScript, JAVA, Spring, HTML5, CSS3 / SASS, MongoDB, Docker, Kubernetes, Adobe XD, GIT, NPM, JIRA.
+- **Tools**: Angular 15, Nest.js, TypeScript, JAVA, Spring, HTML5, CSS3 / SASS, MongoDB, Docker, Kubernetes, Adobe XD, GIT, NPM, JIRA.
 - **Domains**: Front-End Development, Full-Stack Development
 
 <br>
