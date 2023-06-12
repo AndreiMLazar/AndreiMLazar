@@ -25,26 +25,26 @@ Experienced Web Developer with a demonstrated history of working in the informat
    &nbsp;&nbsp;
    <picture>
       <source
-         srcset="https://github-readme-stats.vercel.app/api/top-langs?username=andreimlazar&hide=php,prolog,apacheconf&show_icons=true&locale=en&layout=compact&line_height=20&show_icons=true&theme=tokyonight"
+         srcset="https://github-readme-stats.vercel.app/api/top-langs?username=andreimlazar&theme=tokyonight&langs_count=4&layout=compact"
          media="(prefers-color-scheme: dark)"
          />
       <source
-         srcset="https://github-readme-stats.vercel.app/api/top-langs?username=andreimlazar&hide=php,prolog,apacheconf&show_icons=true&locale=en&layout=compact&line_height=20&show_icons=true&theme=buefy"
+         srcset="https://github-readme-stats.vercel.app/api/top-langs?username=andreimlazar&theme=buefy&langs_count=4&layout=compact"
          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
          />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreimlazar&hide=php,prolog,apacheconf&show_icons=true&locale=en&layout=compact&line_height=20&show_icons=true&theme=buefy" alt="AndreiMLazar" height="150" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreimlazar&theme=buefy&langs_count=4&layout=compact" alt="AndreiMLazar" height="150" />
    </picture>
    &nbsp;&nbsp;
    <picture>
       <source
-         srcset="https://streak-stats.demolab.com/demo/preview.php?user=andreimlazar&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=465"
+         srcset="https://streak-stats.demolab.com/demo/preview.php?user=andreimlazar&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=554"
          media="(prefers-color-scheme: dark)"
          />
       <source
-         srcset="https://streak-stats.demolab.com/demo/preview.php?user=andreimlazar&theme=buefy&date_format=j%20M%5B%20Y%5D&card_width=465"
+         srcset="https://streak-stats.demolab.com/demo/preview.php?user=andreimlazar&theme=buefy&date_format=j%20M%5B%20Y%5D&card_width=554"
          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
          />
-      <img src="https://streak-stats.demolab.com/demo/preview.php?user=andreimlazar&theme=buefy&date_format=j%20M%5B%20Y%5D&card_width=465" alt="AndreiMLazar" height="150" />
+      <img src="https://streak-stats.demolab.com/demo/preview.php?user=andreimlazar&theme=buefy&date_format=j%20M%5B%20Y%5D&card_width=554" alt="AndreiMLazar" height="150" />
    </picture>
 </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
