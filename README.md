@@ -1,5 +1,5 @@
 ## **About me**
-Experienced Web Developer with a demonstrated history of working in the information technology industry. Skilled in web development including both front-end and back-end technologies. Strong engineering professional with a Bachelor’s Degree focused in Computer Science from the University of Bucharest.
+I am an experienced Web Developer with a background in the IT industry. My skill set covers a wide range of web development areas, including both front-end and back-end technologies. I hold a Bachelor’s Degree in Computer Science from the University of Bucharest, which has provided me with a solid foundation for my work. My goal is to leverage my expertise to deliver efficient and effective solutions for various projects.
 <br>
 <a href="https://www.linkedin.com/in/andreimlazar/" target="_blank">
 <br>
