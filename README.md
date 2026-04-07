@@ -55,8 +55,11 @@ Founder of **Waytr** — a 24/7 POS & digital menu platform. Previously at **Deu
 
 ## Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiMLazar&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github)](https://github.com/AndreiMLazar#gh-dark-mode-only)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiMLazar&show_icons=true&theme=default&hide_border=true&include_all_commits=true&rank_icon=github)](https://github.com/AndreiMLazar#gh-light-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AndreiMLazar&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/AndreiMLazar#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AndreiMLazar&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/AndreiMLazar#gh-light-mode-only)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AndreiMLazar&theme=dark&hide_border=true&layout=compact&langs_count=6)](https://github.com/AndreiMLazar#gh-dark-mode-only)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AndreiMLazar&theme=default&hide_border=true&layout=compact&langs_count=6)](https://github.com/AndreiMLazar#gh-light-mode-only)
+[![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreiMLazar&theme=github_dark)](https://github.com/AndreiMLazar#gh-dark-mode-only)
+[![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreiMLazar&theme=github)](https://github.com/AndreiMLazar#gh-light-mode-only)
+
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndreiMLazar&theme=github_dark)](https://github.com/AndreiMLazar#gh-dark-mode-only)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndreiMLazar&theme=github)](https://github.com/AndreiMLazar#gh-light-mode-only)
