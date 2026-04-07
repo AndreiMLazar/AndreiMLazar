@@ -1,38 +1,62 @@
-## **About me**
-I am an experienced Web Developer with a background in the IT industry. My skill set covers a wide range of web development areas, including both front-end and back-end technologies. I hold a Bachelor’s Degree in Computer Science from the University of Bucharest, which has provided me with a solid foundation for my work. My goal is to leverage my expertise to deliver efficient and effective solutions for various projects.
-<br>
-<a href="https://www.linkedin.com/in/andreimlazar/" target="_blank">
-<br>
-<img src="https://img.shields.io/badge/linkedin: AndreiMLazar-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=#FAFAFA" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## **Skills**
-- **Tools**: Angular 16, Nest.js, TypeScript, JAVA, Spring, HTML5, CSS3 / SASS, MongoDB, WebSockets, Redis, HTTP/REST, Docker, Kubernetes, Adobe XD, GIT, NPM, JIRA.
-- **Domains**: Front-End Development, Full-Stack Development
-<br>
-<a href="https://github.com/AndreiMLazar">
-   <picture>
-      <source
-         srcset="https://streak-stats.demolab.com?user=AndreiMLazar&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=554"
-         media="(prefers-color-scheme: dark)"
-         />
-      <source
-         srcset="https://streak-stats.demolab.com?user=AndreiMLazar&theme=buefy&date_format=j%20M%5B%20Y%5D&card_width=554"
-         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-         />
-      <img src="https://streak-stats.demolab.com?user=AndreiMLazar&theme=buefy&date_format=j%20M%5B%20Y%5D&card_width=554" alt="AndreiMLazar" height="150" />
-   </picture>
-   &nbsp;&nbsp;
-   <picture>
-      <source
-         srcset="https://github-readme-stats.vercel.app/api/top-langs?username=andreimlazar&theme=tokyonight&langs_count=4&layout=compact"
-         media="(prefers-color-scheme: dark)"
-         />
-      <source
-         srcset="https://github-readme-stats.vercel.app/api/top-langs?username=andreimlazar&theme=buefy&langs_count=4&layout=compact"
-         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-         />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreimlazar&theme=buefy&langs_count=4&layout=compact" alt="AndreiMLazar" height="150" />
-   </picture>
-</a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# Andrei Lazăr — Senior Full-Stack Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andreimlazar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreimlazar/)
+[![Email](https://img.shields.io/badge/Email-andreimhlazar@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andreimhlazar@gmail.com)
+
+---
+
+Product-driven full-stack engineer with 10+ years building production web applications end-to-end. I specialize in **Angular** and **TypeScript** on the frontend with **Node.js / NestJS** on the backend — real-time systems, clean UI/UX, and pragmatic architecture.
+
+Founder of **Waytr** — a 24/7 POS & digital menu platform. Previously at **Deutsche Bank** and **Airbus Defence and Space**.
+
+---
+
+## Stack
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+**Data & Storage**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps & Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+
+---
+
+## Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiMLazar&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github)](https://github.com/AndreiMLazar#gh-dark-mode-only)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiMLazar&show_icons=true&theme=default&hide_border=true&include_all_commits=true&rank_icon=github)](https://github.com/AndreiMLazar#gh-light-mode-only)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AndreiMLazar&theme=dark&hide_border=true&layout=compact&langs_count=6)](https://github.com/AndreiMLazar#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AndreiMLazar&theme=default&hide_border=true&layout=compact&langs_count=6)](https://github.com/AndreiMLazar#gh-light-mode-only)
